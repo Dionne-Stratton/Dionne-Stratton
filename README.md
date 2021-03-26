@@ -3,11 +3,15 @@
 Hi, I'm Dionne. I'm a web developer with an eye for design and creating user friendly web apps.
 
 Techstacks I've worked with:
+
 • React
+
 • Node / Express
 
 Coding languages I've used
+
 • JavaScript
+
 • Python
 
 I'm always making chages to my Serentiy Images art app, applying improvements as I learn new things. The next thing I plan to learn more about is UX/UI and I look forward to using that knowledge to inprove up my apps even more. 
