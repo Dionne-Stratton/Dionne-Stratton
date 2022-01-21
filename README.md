@@ -19,7 +19,7 @@ Coding languages I've used:
 • Python
 
 
-I'm always making chages to my Serentiy Images art app, applying improvements as I learn new things. The next thing I plan to learn more about is UX/UI and I look forward to using that knowledge to inprove up my apps even more. 
+I'm always making chages to my Serentiy Images art app, applying improvements as I learn new things. The next thing I plan to learn more about is UX/UI and I look forward to using that knowledge to improve my apps even more. 
 
 - ⚡ Fun fact: I'm not only the creator and designer of the Serenity Imagaes web app, but also the artist whose work is featured. I'd love it if you would visit my site and leave me some feedback on it. Visit: serenityimages.studio
 
