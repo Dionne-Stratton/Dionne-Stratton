@@ -5,11 +5,15 @@ Hi, I'm Dionne. I'm a web developer with an eye for design and creating user fri
 
 Techstacks I've worked with:
 
-• React / Next.js
+• React / React Native
 
 • Node / Express
 
 • Bootstrap and CSS
+
+• Redux
+
+• Sqlite3 and Postgress
 
 
 Coding languages I've used:
