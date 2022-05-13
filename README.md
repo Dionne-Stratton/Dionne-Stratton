@@ -10,7 +10,7 @@
 <br />
 
 🌱 I’m Dionne Stratton! Full Stack Web Developer <br />
-🤞🏻 I’m currently building the Grow: Work app here: [Grow organization](https://github.com/Grow-Work). <br />
+🤞🏻 I’m currently building the app here: [Grow organization](https://github.com/Grow-Work). <br />
 📨 You can send me a message through 👉🏻 [<img src = "https://cdn.svgporn.com/logos/linkedin.svg" width='75' />](https://www.linkedin.com/in/dionne-stratton/)
 
 <br />
